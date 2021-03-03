@@ -1,32 +1,23 @@
-### Hi there, I'm Arda Engin - aka Meska 👋
+# Hi there, I'm Arda Engin - aka Meska 👋
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 
-### Connect with me:
+## Spotify Playing 🎧
 
-[<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
-[<img align="left" alt="İnstagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/it/archive/0/09/20160903181541%21Twitter_bird_logo.png" />][twitter]
+[![Spotify](https://spotify-now-playing-ardaenginebcim.vercel.app/api/spotify)](https://open.spotify.com/user/xl057a8acvi4j0tguc4tl83yt)
 
-<br />
+## 📈 GitHub Stats
 
-### Languages and Tools:
+<a href="https://github.com/ArdaEnginEbcim/ArdaEnginEbcim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaEnginEbcim&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Meska's GitHub Stats" />
+</a>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />]
-[<img align="left" alt="Node Js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />]
-<br />
-<br />
+<a href="https://github.com/ArdaEnginEbcim/ArdaEnginEbcim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArdaEnginEbcim&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Meska's GitHub Stats" />
+</a>
 
----
+## 🏆 GitHub Trophies
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArdaEnginEbcim&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <img align="left" alt="ArdaEnginEbcim's GitHub Stats" src="https://github-readme-stats.ardaenginebcim.vercel.app/api?username=ArdaEnginEbcim&show_icons=true&hide_border=true" />
-
-</details>
-
-[facebook]: https://www.facebook.com/ardaengin.ebcim.1/
-[instagram]: https://www.instagram.com/ardaengnebcim/
-[twitter]: http://www.twitter.com/EnginEbcim/
