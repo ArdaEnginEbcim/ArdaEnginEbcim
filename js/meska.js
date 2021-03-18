@@ -7,7 +7,7 @@ const COMMANDS = {
   country: "in Turkey 🇹🇷",
   contact:
     "<a href='https://instagram.com/ardaengnebcim' class='success link'>Instagram</a>, <a href='https://github.com/ArdaEnginEbcim/' class='success link'>Github</a>, <a href='mailto:ardaengnebcim@gmail.com' class='success link'>Mail</a>",
-  reboot: "<a href='../meska.html' class='success link'>Click.</a>",
+  reboot: "<a href='../index.html' class='success link'>Click.</a>",
 };
 
 let userInput, terminalOutput;
