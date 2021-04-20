@@ -73,5 +73,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Spotify**
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=tunayilmaz08&&style=flat-square" align="center" />
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xl057a8acvi4j0tguc4tl83yt&cover_image=true&theme=default" /></div>  
 </div>  
