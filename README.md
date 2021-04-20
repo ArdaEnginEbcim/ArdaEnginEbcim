@@ -72,4 +72,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 **Spotify**
-[![Spotify](https://meska.vercel.app/api/spotify)](https://open.spotify.com/user/xl057a8acvi4j0tguc4tl83yt)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=tunayilmaz08&&style=flat-square" align="center" />
+</div>  
