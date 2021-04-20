@@ -22,10 +22,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArdaEnginEbcim&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-598972%20lines%20of%20code-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 103 Contributions in the Year 2021
@@ -89,10 +85,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ArdaEnginEbcim/ArdaEnginEbcim/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
