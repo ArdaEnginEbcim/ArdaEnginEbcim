@@ -3,15 +3,22 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 190 Contributions in the Year 2021
+ > 
+> 📦 10.1 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 23 Private Repositories  
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/Istanbul
-
-<!--TEST:meska-->
-Meska
-<!--TEST:meska-->
-
 
 🔥 Editors: 
 WebStorm                 5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.15% 
