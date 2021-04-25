@@ -3,85 +3,6 @@
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 
-<!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 183 Contributions in the Year 2021
- > 
-> 📦 10.1 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 23 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    7 commits      ██████████░░░░░░░░░░░░░░░   41.18% 
-🌆 Daytime    8 commits      ███████████░░░░░░░░░░░░░░   47.06% 
-🌃 Evening    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Tuesday      12 commits     █████████████████░░░░░░░░   70.59% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-JavaScript               5 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.46% 
-Python                   2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75% 
-YAML                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   8.07% 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.83%
-
-🔥 Editors: 
-WebStorm                 5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.15% 
-VS Code                  4 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.83% 
-PyCharm                  2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   23.02%
-
-🐱‍💻 Projects: 
-waka-readme-js           4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   35.47% 
-waka-readme-stats        2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   23.02% 
-readme                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
-Server                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
-[inceptionV4.2-ingame]   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   8.14%
-
-💻 Operating System: 
-Mac                      12 hrs 22 mins      ████████████████████████░   98.04% 
-Windows                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            █████████████████████░░░░   84.0% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
 ### 🛠 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -93,14 +14,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-### Connect with me
-<a href="https://twitter.com/EnginEbcim" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-181717?style=flat-square&logo=twitter" alt="Twitter" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://instagram.com/ardaengnebcim" target="_blank">
-<img src="https://img.shields.io/badge/-İnstagram-181717?style=flat-square&logo=instagram" alt="İnstagram" style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/ArdaEnginEbcim" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" style="margin-bottom: 5px;" />
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
