@@ -21,14 +21,13 @@
 ⌚︎ Time Zone: Europe/Istanbul
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Zeppelin (1)             34 mins             ██████████████████████░░░   89.06% 
-Discord-Account-Generator4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.94%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
