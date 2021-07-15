@@ -21,13 +21,13 @@
 ⌚︎ Time Zone: Europe/Istanbul
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zeppelin                 1 hr 23 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 23 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
