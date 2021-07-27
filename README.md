@@ -21,13 +21,14 @@
 ⌚︎ Time Zone: Europe/Istanbul
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Discord-tokens-generator 29 mins             █████████████████████░░░░   84.68% 
+Discord-Token-Generator-m5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.32%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      34 mins             █████████████████████████   100.0%
 
 ```
 
