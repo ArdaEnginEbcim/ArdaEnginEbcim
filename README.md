@@ -7,7 +7,7 @@
 
 > 🏆 241 Contributions in the Year 2021
  > 
-> 📦 15.4 kB Used in Github's Storage 
+> 📦 15.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -21,13 +21,14 @@
 ⌚︎ Time Zone: Europe/Istanbul
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+zeppelin                 23 mins             ███████████████████████░░   94.06% 
+my-app                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      25 mins             █████████████████████████   100.0%
 
 ```
 
