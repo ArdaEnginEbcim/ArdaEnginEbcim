@@ -21,13 +21,13 @@
 ⌚︎ Time Zone: Europe/Istanbul
 
 🔥 Editors: 
-WebStorm                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zeppelin                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
