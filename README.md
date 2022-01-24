@@ -3,6 +3,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2042%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
@@ -32,7 +34,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/01/2022 21:08:16 UTC
+ Last Updated on 24/01/2022 01:58:10 UTC
 <!--END_SECTION:waka-->
 
 
