@@ -7,20 +7,20 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2023
- > 
 > 📦 17.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 28 Private Repositories  
+> 🔑 28 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Istanbul
+🕑︎ Time Zone: Europe/Istanbul
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -30,11 +30,10 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 
- Last Updated on 22/02/2023 17:08:18 UTC
+ Last Updated on 22/02/2023 22:07:33 UTC
 <!--END_SECTION:waka-->
 
 
