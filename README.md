@@ -3,6 +3,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2042%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 19.2 kB Used in GitHub's Storage 
@@ -15,8 +17,23 @@
  > 
 > 🔑 28 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 30/11/2023 22:07:45 UTC
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 30/11/2023 23:08:49 UTC
 <!--END_SECTION:waka-->
 
 
